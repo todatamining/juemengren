@@ -27,18 +27,18 @@
 |分类|[总内容](b.md)|下载|更新日期|
 |---------|---|---|---|
 |B1、楞严经科判 6 部|[内容](b1.md)|[科判bc系列汉传经论->壹、经科判 b系列->B1](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B2、法华经科判 2 部|[内容](b2.md)|[科判bc系列汉传经论->壹、经科判 b系列->B2](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B3、圆觉经科判 3 部|[内容](b3.md)|[科判bc系列汉传经论->壹、经科判 b系列->B3](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B4、维摩诘经科判 2 部|[内容](b4.md)|[科判bc系列汉传经论->壹、经科判 b系列->B4](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B5、解深密经科判 4 部|[内容](b5.md)|[科判bc系列汉传经论->壹、经科判 b系列->B5](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B6、十善业道经科判 2 部|[内容](b6.md)|[科判bc系列汉传经论->壹、经科判 b系列->B6](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B7、地藏经科判 1 部|[内容](b7.md)|[科判bc系列汉传经论->壹、经科判 b系列->B7](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B8、净土五经一论科判 9 部|[内容](b8.md)|[科判bc系列汉传经论->壹、经科判 b系列->B8](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B9、金刚经科判 6 部|[内容](b9.md)|[科判bc系列汉传经论->壹、经科判 b系列->B9](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B10、心经科判 6 部|[内容](b10.md)|[科判bc系列汉传经论->壹、经科判 b系列->B10](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B11、普门品科判 2 部|[内容](b11.md)|[科判bc系列汉传经论->壹、经科判 b系列->B11](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B12、盂兰盆经科判 2 部|[内容](b12.md)|[科判bc系列汉传经论->壹、经科判 b系列->B12](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
-|B13、楞伽经科判 1 部|[内容](b13.md)|[科判bc系列汉传经论->壹、经科判 b系列->B13](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B2、法华经科判 2 部|[内容](./md/b2.md)|[科判bc系列汉传经论->壹、经科判 b系列->B2](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B3、圆觉经科判 3 部|[内容](./md/b3.md)|[科判bc系列汉传经论->壹、经科判 b系列->B3](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B4、维摩诘经科判 2 部|[内容](./md/b4.md)|[科判bc系列汉传经论->壹、经科判 b系列->B4](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B5、解深密经科判 4 部|[内容](./md/b5.md)|[科判bc系列汉传经论->壹、经科判 b系列->B5](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B6、十善业道经科判 2 部|[内容](./md/b6.md)|[科判bc系列汉传经论->壹、经科判 b系列->B6](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B7、地藏经科判 1 部|[内容](./md/b7.md)|[科判bc系列汉传经论->壹、经科判 b系列->B7](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B8、净土五经一论科判 9 部|[内容](./md/b8.md)|[科判bc系列汉传经论->壹、经科判 b系列->B8](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B9、金刚经科判 6 部|[内容](./md/b9.md)|[科判bc系列汉传经论->壹、经科判 b系列->B9](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B10、心经科判 6 部|[内容](./md/b10.md)|[科判bc系列汉传经论->壹、经科判 b系列->B10](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B11、普门品科判 2 部|[内容](./md/b11.md)|[科判bc系列汉传经论->壹、经科判 b系列->B11](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B12、盂兰盆经科判 2 部|[内容](./md/b12.md)|[科判bc系列汉传经论->壹、经科判 b系列->B12](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|B13、楞伽经科判 1 部|[内容](./md/b13.md)|[科判bc系列汉传经论->壹、经科判 b系列->B13](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 
 ### 3. 论科判 c 系列 
 
