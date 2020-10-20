@@ -62,4 +62,5 @@
 |大藏经| -|[大藏经(NO1.24).rar](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |法宝仓库|-|[法宝仓库(NO3.42)](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |如来藏大纲狮吼论讲记 共学| -|[如来藏大纲狮吼论讲记 共学](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
+|佛经科判选编|-|[佛经科判选编](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 
