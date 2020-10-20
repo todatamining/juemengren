@@ -3,7 +3,7 @@
 
 ## 最新更新![new](./img/new-32.png)
 
-| 分类   | 内容  |下载|更新日期|
+| <canvas id="myCanvas" width="300" style="border:1px solid">分类</canvas>   | 内容  |下载|更新日期|
 |---------|---|---|---|
 
 
