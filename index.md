@@ -1,4 +1,4 @@
-<img src="./img/top.png" border=0 style="border:0; text-decoration:none; outline:none">
+
 
 # 觉梦人科判汇总 
 
