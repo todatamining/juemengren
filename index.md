@@ -1,4 +1,3 @@
-![new](https://mmbiz.qpic.cn/mmbiz_png/P7mic2d3jAwiaEDDnZKibb0ofMvsBNU5g8LvZ9xSXactvgq2bianv8DQ8MtTribIia5zoM1Fm7X0acmcyUQ9XupDgJvA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1）
 
 # 觉梦人科判汇总 
 
