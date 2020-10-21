@@ -70,6 +70,10 @@
 |如来藏大纲狮吼论讲记 共学| -|[如来藏大纲狮吼论讲记 共学](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |佛经科判选编|-|[佛经科判选编 丁雅萍闻妙选编.pdf](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 
+### q 群说明
+
+|<img width=170/>[q群](qun.md)<img width=170/>|10/18/2020|
+|---------|---|
 
 下载提示![new](./img/lamp.png)：  
 
