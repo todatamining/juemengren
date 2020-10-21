@@ -65,16 +65,13 @@
 
 |<img width=170/>分类<img width=170/>|总目录|<img width=170/>下载<img width=170/>|更新日期|
 |---------|---|---|---|
-|[q群](qun.md)|||10/18/2020|
+|q群说明|[q群](qun.md)||10/18/2020|
 |大藏经| -|[大藏经(NO1.24).rar](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |法宝仓库|-|[法宝仓库(NO3.42).rar](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |如来藏大纲狮吼论讲记 共学| -|[如来藏大纲狮吼论讲记 共学](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |佛经科判选编|-|[佛经科判选编 丁雅萍闻妙选编.pdf](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 
-### q 群说明
 
-|<img width=170/>[q群](qun.md)<img width=170/>|10/18/2020|
-|---------|---|
 
 下载提示![new](./img/lamp.png)：  
 
