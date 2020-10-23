@@ -6,9 +6,10 @@
 
 |   内容  |更新日期|
 |--|--|
+|6. 文章推荐|10/23/2020|
 |5. 其他->如来藏大纲狮吼论讲记|10/23/2020|
-|5. 其他->q群说明|10/21/2020|
-|5. 其他->网站整理|10/21/2020|
+|7. 网站群组整理->q群说明|10/21/2020|
+|7. 网站群组整理->网站整理|10/21/2020|
 
 
 ## 课程分类
@@ -64,7 +65,7 @@
 |二、太虚大师全集第4篇大乘 | [目录](./md/tx.md#tx-2)|[科判bc系列汉传经论->叁、太虚大师部分科判->二](https://cloud.189.cn/t/QZNz63n2IV3y)||10/18/2020|
 
 
-### 5. 其他 
+### 5. 其他
 
 |<img width=100/>分类<img width=100/>|总目录|<img width=170/>下载<img width=170/>|<img width=25/>q群<img width=25/>|更新日期|
 |---------|---|---|---|---|
@@ -72,15 +73,19 @@
 |法宝仓库|-|[法宝仓库(NO3.42).rar](https://cloud.189.cn/t/QZNz63n2IV3y)|-|
 |如来藏大纲狮吼论讲记 共学| -|[如来藏大纲狮吼论讲记 共学](https://cloud.189.cn/t/QZNz63n2IV3y)|42567637<br>954053726|10/23/2020|
 |佛经科判选编|-|[佛经科判选编 丁雅萍闻妙选编.pdf](https://cloud.189.cn/t/QZNz63n2IV3y)||-|
-|网站整理|[网站](./md/web.md)|||10/21/2020|
-|q群说明|[q群](qun.md)|||10/21/2020|
 
 ### 6. 文章推荐
-|<img width=100/>标题<img width=100/>|链接|
-|--|--|
+|<img width=100/>标题<img width=100/>|链接|更新日期|
+|--|--|--|
 |如何学好中观|[链接](http://mp.weixin.qq.com/s?__biz=MzI1NTI1NDUzMQ==&mid=2247484421&idx=1&sn=27cf72e3abd8ac908665e5134231f8aa&chksm=ea398d69dd4e047fe1f8f469a736ccdced618ba967557a7c8e87a2fe541960fadfe87a46f3c2&mpshare=1&scene=23&srcid=1021qo3qBUs0hf7zssl8rmtK&sharer_sharetime=1603259242282&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32#rd)|
 |中观总义初学（一）|[链接](http://mp.weixin.qq.com/s?__biz=MzI1NTI1NDUzMQ==&mid=2247484007&idx=1&sn=5f6c3e94ecd9f53a035ef5a8115d98de&chksm=ea398b0bdd4e021d87f23ddef29048838ab7752209308fa14a8e1fe7eab9b54e8be2ddcf5da6&mpshare=1&scene=23&srcid=1021QDAvoj53A8HfLLoRw37t&sharer_sharetime=1603259588295&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32#rd)|
 |中观总义初学（二）|[链接](http://mp.weixin.qq.com/s?__biz=MzI1NTI1NDUzMQ==&mid=2247484080&idx=1&sn=c7dbe7cb7a1c6601c7e2a8c465e867a2&chksm=ea398bdcdd4e02ca922505c1dd45d2587695897ec38eb4cc6e87ddbf1656449ae86f5a5957e5&mpshare=1&scene=23&srcid=10218NYOLIbeAdm6T2tx8upr&sharer_sharetime=1603259607940&sharer_shareid=1e99451dbad4a7d66bf280584d9acd32#rd)|
+
+### 7. 网站群组整理
+|<img width=100/>分类<img width=100/>|链接|更新日期|
+|---------|---|---|
+|网站整理|[网站](./md/web.md)|||10/21/2020|
+|q群说明|[q群](qun.md)|||10/21/2020|
 
 
 提示![new](./img/lamp.png)：  
